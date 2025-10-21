@@ -17,9 +17,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-```# filepath: /home/christine/fix-it/main.py
 
-#!/usr/bin/env python3
 """Simple interactive Python script."""
 
 def get_number(prompt):
