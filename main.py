@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """Simple interactive Python script."""
 
 def get_number(prompt):
